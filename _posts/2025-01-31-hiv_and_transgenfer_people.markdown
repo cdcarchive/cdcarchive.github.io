@@ -96,8 +96,10 @@ Many people with HIV experience challenges with achieving and maintaining viral 
 
 ### Median HIV stigma score among transgender people with diagnosed HIV in the US, 2020*
 
-![Learn more about HIV stigma experienced by transgender people with diagnosed HIV. Median HIV stigma scores are presented based on a ten-item scale ranging from 0 (no stigma) to 100 (high stigma) that measures personalized stigma during the past 12 months, current disclosure concerns, current negative self-image, and current perceived public attitudes about people with HIV.](https://cdcarchive.github.io/assets/images/hiv/Transgender-web-content-2023_DFE-08)
+![Learn more about HIV stigma experienced by transgender people with diagnosed HIV. Median HIV stigma scores are presented based on a ten-item scale ranging from 0 (no stigma) to 100 (high stigma) that measures personalized stigma during the past 12 months, current disclosure concerns, current negative self-image, and current perceived public attitudes about people with HIV.](https://cdcarchive.github.io/assets/images/hiv/Transgender-web-content-2023_DFE-08.jpeg)
 
 ---
 
-Sources: [HIV Surveillance Report 2021](https://cdcarchive.github.io/assets/pdf/_cdc_149036_DS1.pdf)
+## Sources: 
+
+* [HIV Surveillance Report 2021](https://cdcarchive.github.io/assets/pdf/_cdc_149036_DS1.pdf)
