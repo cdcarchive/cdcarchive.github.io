@@ -92,7 +92,7 @@ Many people with HIV experience challenges with achieving and maintaining viral 
 
 ### Depression and anxiety among transgender people with diagnosed HIV in the US, 2020*
 
-![Learn more about depression and anxiety among transgender people with diagnosed HIV.](https://cdcarchive.github.io/assets/images/hiv/Transgender-web-content-2023_DFE-14)
+![Learn more about depression and anxiety among transgender people with diagnosed HIV.](https://cdcarchive.github.io/assets/images/hiv/Transgender-web-content-2023_DFE-14.jpeg)
 
 ### Median HIV stigma score among transgender people with diagnosed HIV in the US, 2020*
 
